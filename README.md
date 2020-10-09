@@ -1,11 +1,13 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **aovabo/aovabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+** Here are some ideas to get you started:
+- I'm Alexander.
+- I am interested interested in software, cloud, and network security. 
+- I an also passionate about privacy issues in technology, product, and design. 
+-  I’m currently Capturing Flags on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+GitHub supports emoji!
+:Red Flag
