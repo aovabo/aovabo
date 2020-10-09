@@ -1,5 +1,5 @@
 ### Hello there 👋
-                                          I'm Alexander!
+                                          I'm Alexander 'Bor!
 - I am interested interested in software, cloud, and network security. 
 - I am passionate about privacy issues in technology, product, and design.
 - I'm familiar with privacy frameworks, data protection regulations, and laws.
