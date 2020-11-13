@@ -24,7 +24,6 @@
 
 **Short Description**  
 I am interested in data security and privacy in data management, machine learning, and blockchains.
-I am interested in software, cloud, and network security.
 I am passionate about privacy issues in technology, product, and design.
 I am familiar with privacy frameworks, data protection laws and regulations such as GDPR, and CCPA. 
 
