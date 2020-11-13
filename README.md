@@ -20,7 +20,7 @@
 
 **Web/Full Stack projects**
 
-[![HeyMovies](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://github.com/aovabo/HeyMovies)  
+[![HeyMovies](https://img.shields.io/badge/-🧬&nbsp;&nbsp;HeyMovies-000000?style=flat)](https://github.com/aovabo/HeyMovies)  
 
 **Short Description**  
 I am interested in data security and privacy in data management, machine learning, and blockchains.
