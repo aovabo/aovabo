@@ -24,7 +24,7 @@
 
 **Short Description**  
 I am interested in security and privacy engineering.
-I am passionate about data privacy issues in technology, product, and design.
+I am passionate about privacy issues in technology, product, and design.
 I am familiar with privacy frameworks, data protection laws and regulations such as GDPR, and CCPA. 
 
 **CTFs**  
