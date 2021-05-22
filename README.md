@@ -28,10 +28,10 @@ I am passionate about privacy issues in technology, product, and design.
 I am familiar with privacy frameworks, data protection laws and regulations such as GDPR, and CCPA. 
 
 **CTFs**  
-I enjoy competing in Capture The Flag competitions. I competed in WiCys and Google SANS Cyberstart competition, Lockheed Martin Cyber Grand Challenge 2020, PNSQC 2020 Cyber Range, DTCC CTF (in collaboration with NYU CSAW’20), and the National Cyber League 2020 Fall Season.
+I enjoy competing in Capture The Flag competitions. I competed in WiCys and Google SANS Cyberstart competition, Lockheed Martin Cyber Grand Challenge 2020, PNSQC 2020 Cyber Range, DTCC CTF (in collaboration with NYU CSAW’20), , Hack-A-Sat 1 qualification round, and the National Cyber League 2020 Fall Season.
 
 **Secure Coding**  
-I participated in the Hacker Halted Secure Coding Tournament 2020, and Hack-A-Sat 1 qualification round.  
+I participated in the Hacker Halted Secure Coding Tournament 2020.
 
 **Conferences**  
 I attended the USENIX Security ’20 conference, and the 17th Annual CSAW’20 Cybersecurity Conference and Games.
