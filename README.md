@@ -20,7 +20,7 @@
 
 **Web/Full Stack projects**
 
-#[![Project Dinta](https://img.shields.io/badge/-🧬&nbsp;&nbsp;HeyMovies-000000?style=flat)](https://projectdinta.co)  
+![Project Dinta](https://img.shields.io/badge/-🧬&nbsp;&nbsp;HeyMovies-000000?style=flat)](https://projectdinta.co)  
 
 **Short Description**  
 I'm fascinated by security and privacy engineering. I am very interested in privacy issues in technology, products, and design. I am familiar with privacy frameworks, as well as data protection laws and regulations such as the GDPR and the CCPA.
