@@ -18,9 +18,6 @@
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
 
-**Web/Full Stack projects**
-
-# ![Project Dinta](https://img.shields.io/badge/-🧬&nbsp;&nbsp;Dinta-000000?style=flat)](https://projectdinta.co)  
 
 **Short Description**  
 I'm fascinated by security and privacy engineering. I am very interested in privacy issues in technology, products, and design. I am familiar with privacy frameworks, as well as data protection laws and regulations such as the GDPR and the CCPA.
