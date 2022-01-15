@@ -20,16 +20,16 @@
 
 **Web/Full Stack projects**
 
-[![HeyMovies](https://img.shields.io/badge/-🧬&nbsp;&nbsp;HeyMovies-000000?style=flat)](https://github.com/aovabo/HeyMovies)  
+#[![Project Dinta](https://img.shields.io/badge/-🧬&nbsp;&nbsp;HeyMovies-000000?style=flat)](https://projectdinta.co)  
 
 **Short Description**  
 I'm fascinated by security and privacy engineering. I am very interested in privacy issues in technology, products, and design. I am familiar with privacy frameworks, as well as data protection laws and regulations such as the GDPR and the CCPA.
 
 **CTFs**  
-Capture the Flag competitions are something I enjoy participating in. WiCys and Google SANS Cyberstart competitions, Lockheed Martin Cyber Grand Challenge 2020, PNSQC 2020 Cyber Range, DTCC CTF (in collaboration with NYU CSAW'20), Hack-A-Sat 1 qualification round, and the National Cyber League 2020 Fall Season were all events in which I competed.
+Capture the Flag competitions are something I enjoy participating in. WiCys and Google SANS Cyberstart competitions, Lockheed Martin Cyber Grand Challenge 2020, PNSQC 2020 Cyber Range, DTCC CTF (in collaboration with NYU CSAW'20), Hack-A-Sat 1 & 2 qualification round, and the National Cyber League 2020 Fall Season were all events in which I competed.
 
 **Secure Coding**  
-I took part in the 2020 Hacker Halted Secure Coding Tournament.
+I took part in the 2020 & 2021 Hacker Halted Secure Coding Tournament.
 
 **Conferences**  
 I went to the USENIX Security '20 conference as well as the 17th Annual CSAW'20 Cybersecurity Conference and Games.
