@@ -25,7 +25,7 @@ I'm fascinated by security, privacy, and aerospace engineering. I am very intere
 I am currently learning solidity and rust programming language and transitioning to web 3.0 security. I'm open to talking about blockchain technology, web 3.0, and low-level protocol development and security. 
 
 **CTFs**  
-I enjoy participating in Capture the Flag competitions. I mostly spend my time these days hunting for bugs on blockchain projects listed on [Immunefi](https://immunefi.com/explore/). I have competed in WiCys and Google SANS Cyberstart competitions, Lockheed Martin Cyber Grand Challenge 2020, PNSQC 2020 Cyber Range, DTCC CTF (in collaboration with NYU CSAW'20), Hack-A-Sat 1 & 2 qualification round, and the National Cyber League 2020 Fall Season.
+I enjoy participating in Capture the Flag competitions. I spend my time these days hunting for bugs in blockchain projects listed on [Immunefi](https://immunefi.com/explore/). I have competed in WiCys and Google SANS Cyberstart competitions, Lockheed Martin Cyber Grand Challenge 2020, PNSQC 2020 Cyber Range, DTCC CTF (in collaboration with NYU CSAW'20), Hack-A-Sat 1 & 2 qualification round, and the National Cyber League 2020 Fall Season.
 
 **Secure Coding**  
 I took part in the 2020 & 2021 Hacker Halted Secure Coding Tournament.
