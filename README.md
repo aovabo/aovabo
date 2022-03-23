@@ -20,7 +20,7 @@
 
 
 **Short Description**  
-I am fascinated by security, privacy, and aerospace engineering. I am very interested in privacy issues in technology, products, and design. I am familiar with privacy frameworks, as well as data protection laws and regulations such as the GDPR and the CCPA. I am currently learning solidity and rust programming language and transitioning to web 3.0 security. I am open to talking about blockchain technology, web 3.0, and low-level protocol development and security.
+Hello, my name is Alexander and I am a security researcher and developer. I love finding security vulnerabilities and developing exploits, as well as fixing functional bugs. I am very fascinated by security, privacy, and aerospace engineering, and have experience with data protection laws and regulations such as the GDPR and CCPA. Recently, I have been learning solidity and rust programming language to transition to web 3.0 security. If you are interested in talking about blockchain technology or web 3.0 security please send me a note.
 
 **CTFs**  
 I enjoy participating in Capture the Flag competitions. I spend my time these days hunting for bugs in blockchain projects listed on [Immunefi](https://immunefi.com/explore/). I have competed in WiCys and Google SANS Cyberstart competitions, Lockheed Martin Cyber Grand Challenge 2020, PNSQC 2020 Cyber Range, DTCC CTF (in collaboration with NYU CSAW'20), Hack-A-Sat 1 & 2 qualification round, and the National Cyber League 2020 Fall Season.
