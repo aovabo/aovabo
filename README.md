@@ -22,14 +22,14 @@
 **Short Description**  
 Hello, my name is Alexander and I am a security researcher and developer. I love finding security vulnerabilities and developing exploits, as well as fixing functional bugs. I am very fascinated by security, privacy, and aerospace engineering, and have experience with data protection laws and regulations such as the GDPR and CCPA. Recently, I have been learning solidity and rust programming language to transition to web 3.0 security. If you are interested in talking about blockchain technology or web 3.0 security please send me a note.
 
-**CTFs**  
-I enjoy participating in Capture the Flag competitions. I spend my time these days hunting for bugs in blockchain projects listed on [Immunefi](https://immunefi.com/explore/). I have competed in WiCys and Google SANS Cyberstart competitions, Lockheed Martin Cyber Grand Challenge 2020, PNSQC 2020 Cyber Range, DTCC CTF (in collaboration with NYU CSAW'20), Hack-A-Sat 1 & 2 qualification round, and the National Cyber League 2020 Fall Season.
+**Capture the Flag Competition (CTFs)**  
+I am a professional bug hunter and I enjoy participating in Capture the Flag competitions. These days, I spend my time hunting for bugs in blockchain projects listed on [Immunefi](https://immunefi.com/). I have competed in WiCys and Google SANS Cyberstart competitions, Lockheed Martin Cyber Grand Challenge 2020, PNSQC 2020 Cyber Range, DTCC CTF (in collaboration with NYU CSAW'20), Hack-A-Sat 1 & 2 qualification round, and the National Cyber League 2020 Fall Season.
 
 **Secure Coding**  
-I took part in the 2020 and 2021 Hacker Halted Secure Coding Tournament.
+I had the pleasure of participating in the Hacker Halted Secure Coding Tournament and CTF in 2020 and 2021. The competition was a lot of fun, and it was great to see how well I matched up against other security professionals. I learned a lot during the tournament, and it was a great opportunity to improve my skills. I would recommend anyone who is interested in cybersecurity to take part in this competition.
 
 **Conferences**  
-I went to the USENIX Security '20 and '21 conference as well as the 17th Annual CSAW'20 Cybersecurity Conference and Games.
+I had the opportunity to attend both the 20th and 21st USENIX Security Conferences as well as the 17th Annual CSAW Cybersecurity Conference and Games. The presentations were extremely informative and provided insights into some of the latest cybersecurity threats and defenses. It was also great to see so many talented students participating in the CSAW Games competition. Overall, it was an excellent experience that I would highly recommend to anyone interested in computer security.
 
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=aovabo&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=aovabo&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
 
