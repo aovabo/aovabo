@@ -20,7 +20,7 @@
 
 
 **Short Description**  
-Hello, my name is Alexander and I am a security researcher and developer. I love finding security vulnerabilities and developing exploits, as well as fixing functional bugs. I am very fascinated by security, privacy, and aerospace engineering, and have experience with data protection laws and regulations such as the GDPR and CCPA.
+Hello, my name is Alexander. I love finding security vulnerabilities and developing exploits, as well as fixing functional bugs. I am very fascinated by IT, security, privacy, and compliance engineering.
 
 
 
