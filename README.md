@@ -16,11 +16,14 @@
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira&logoColor=0052CC)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=2496ED)
 
 
 **Short Description**  
 Hello, my name is Alexander. I love finding security vulnerabilities and developing exploits, as well as fixing functional bugs. I am very fascinated by IT, security, privacy, and compliance engineering.
+
+**I am actively seeking new opportunities where I can apply my skills and continue learning.**
 
 **Recent Learning & Skills Acquired**
 
@@ -32,6 +35,16 @@ Recently completed a course on **AI Agents**, gaining proficiency in:
 *   **Fine-tuning:** Gaining experience with fine-tuning LLMs for function calling.
 *   **Observability & Evaluation:** Learning techniques for tracing and evaluating agents for production readiness.
 *   **Use Cases:** Building agents to solve real-world problems in IT, Security, Privacy, and Compliance Engineering.
+
+**AI Skills & Expertise**
+
+*   Proven expertise in implementing Generative AI techniques, including prompt engineering, model fine-tuning, and embeddings for any usecase.
+*   Experience with commercially available APIs (Google, Azure, OpenAI) for text/image generation, embeddings, function calling, LLM fine-tuning, and proficiency in fine-tuning prompts for high-quality outcomes.
+*   Proficiency in deploying and optimizing open-source Generative AI models (LLaMA, Gemma, Qwen), along with familiarity with related toolchains (Ollama, LM Studio, Docker Model Runner).
+*   Familiarity with eval frameworks, agent tooling, RAG pipelines, and prompt engineering, and llm/agent security.
+*   Deep understanding of concepts and algorithms underlying machine learning and LLMs.
+*   Proven experience in LLM product implementation with APIs, back-end and front-end interfaces.
+
 
 **Certificates**
 <!--
