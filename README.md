@@ -1,4 +1,4 @@
-## aovabo
+# **aovabo**
 
 **Languages I have used**
 
@@ -22,12 +22,30 @@
 **Short Description**  
 Hello, my name is Alexander. I love finding security vulnerabilities and developing exploits, as well as fixing functional bugs. I am very fascinated by IT, security, privacy, and compliance engineering.
 
+**Recent Learning & Skills Acquired**
 
-Currently learning about LLMs, Agents, and AI engineering:
+Recently completed a course on **AI Agents**, gaining proficiency in:
 
-<img src="https://cdn-uploads.huggingface.co/production/uploads/noauth/D5F5Mfn5OuT76UNb-Vdst.webp" />
+*   **Agent Fundamentals:** Understanding core concepts like Tools, Thoughts, Actions, Observations, LLMs, messages, and chat templates.
+*   **Agent Libraries:** Learning to use established frameworks such as `smolagents`, `LlamaIndex`, and `LangGraph`.
+*   **Hands-on Development:** Applying concepts to train agents in unique environments, including Hugging Face Spaces.
+*   **Fine-tuning:** Gaining experience with fine-tuning LLMs for function calling.
+*   **Observability & Evaluation:** Learning techniques for tracing and evaluating agents for production readiness.
+*   **Use Cases:** Building agents to solve real-world problems in IT, Security, Privacy, and Compliance Engineering.
+
+**Certificates**
+<!--
+
+<img src="https://cdn-uploads.huggingface.co/production/uploads/noauth/D5F5Mfn5OuT76UNb-Vdst.webp" /> 
+-->
 
 <img src="https://cdn-uploads.huggingface.co/production/uploads/noauth/2J37FeZQwKhUcFtgxsDYh.webp" />
 
+**Blog Posts**
+
+Wrote somethings based on my personal experience in the AI space so far:
+
+*   [How I Chose an AI Agent Framework for QuickDesk](https://huggingface.co/blog/aovabo/agent-frameworks)
+*   [When To Code Or Use AI Agent Frameworks](https://huggingface.co/blog/aovabo/choosing-an-ai-agent-framework)
 
 ⭐️ From [Alexander](https://github.com/aovabo)
