@@ -23,5 +23,11 @@
 Hello, my name is Alexander. I love finding security vulnerabilities and developing exploits, as well as fixing functional bugs. I am very fascinated by IT, security, privacy, and compliance engineering.
 
 
+Currently learning about LLMs, Agents, and AI engineering:
+
+<img src="https://cdn-uploads.huggingface.co/production/uploads/noauth/D5F5Mfn5OuT76UNb-Vdst.webp" />
+
+<img src="https://cdn-uploads.huggingface.co/production/uploads/noauth/2J37FeZQwKhUcFtgxsDYh.webp" />
+
 
 ⭐️ From [Alexander](https://github.com/aovabo)
