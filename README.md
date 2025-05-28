@@ -58,7 +58,7 @@ Recently completed a course on **AI Agents**, gaining proficiency in:
 
 Wrote somethings based on my personal experience in the AI space so far:
 
-*   [How I Chose an AI Agent Framework for QuickDesk](https://huggingface.co/blog/aovabo/agent-frameworks)
+*   [Simple Guide to How AI Works](https://huggingface.co/blog/aovabo/simple-guide-how-ai-really-works)
 *   [When To Code Or Use AI Agent Frameworks](https://huggingface.co/blog/aovabo/choosing-an-ai-agent-framework)
 
 ⭐️ From [Alexander](https://github.com/aovabo)
