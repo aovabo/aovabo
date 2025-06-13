@@ -56,6 +56,8 @@ Recently completed a course on **AI Agents**, gaining proficiency in:
 
 <img src="https://cdn-uploads.huggingface.co/production/uploads/noauth/j8Oz4PgPUjmxooDDpVcIu.webp" />
 
+<img src="https://cdn-uploads.huggingface.co/production/uploads/noauth/q74zZE6MDtEHbLIiEbIXk.webp" />
+
 **Blog Posts**
 
 Wrote somethings based on my personal experience in the AI space so far:
